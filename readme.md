@@ -64,8 +64,5 @@ pip install -r requirements.txt
 ## Logging
 Logs are saved to `logs/preprocess.log` with timestamps, including any errors encountered during data loading.
 
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements or bug fixes.
-
-## License
-[Add license information here if applicable, e.g., MIT License]
+## Streamlit App URL
+https://clusteringapp-e4dethzxsehfu8szr56edt.streamlit.app/
