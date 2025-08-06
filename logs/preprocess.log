@@ -1,0 +1,27 @@
+2025-08-05 15:59:07,840 - INFO - Loaded data from data/mall_customers.csv with shape (200, 5)
+2025-08-05 15:59:08,408 - INFO - KMeans model trained with k=5 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 15:59:08,461 - INFO - Cluster plot created successfully.
+2025-08-05 16:05:33,483 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:05:33,525 - INFO - KMeans model trained with k=5 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:05:33,585 - INFO - Cluster plot created successfully.
+2025-08-05 16:05:43,095 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:05:43,104 - INFO - KMeans model trained with k=2 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:05:43,114 - INFO - Cluster plot created successfully.
+2025-08-05 16:17:21,545 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:17:21,609 - INFO - KMeans model trained with k=3 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:17:21,622 - INFO - Cluster plot created successfully.
+2025-08-05 16:17:26,499 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:17:26,505 - INFO - KMeans model trained with k=4 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:17:26,515 - INFO - Cluster plot created successfully.
+2025-08-05 16:17:35,647 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:17:35,653 - INFO - KMeans model trained with k=2 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:17:35,660 - INFO - Cluster plot created successfully.
+2025-08-05 16:18:38,731 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:18:38,747 - INFO - KMeans model trained with k=10 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:18:38,762 - INFO - Cluster plot created successfully.
+2025-08-05 16:19:54,659 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:19:54,669 - INFO - KMeans model trained with k=5 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:19:54,704 - INFO - Cluster plot created successfully.
+2025-08-05 16:19:58,396 - INFO - Loaded data from uploaded file with shape (200, 5)
+2025-08-05 16:19:58,402 - INFO - KMeans model trained with k=2 and features=['Annual_Income', 'Spending_Score']
+2025-08-05 16:19:58,412 - INFO - Cluster plot created successfully.
